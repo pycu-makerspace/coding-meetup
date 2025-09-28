@@ -4,7 +4,7 @@
 ### windows
 - python.org
 
-#### handle powershell venv activation error
+#### handle powershell venv Activate.ps1 error
 - Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 
 #### windows subsystem for linux
@@ -12,3 +12,5 @@ https://learn.microsoft.com/en-us/windows/wsl/install
 
 
 ### mac/linux
+- https://python-poetry.org/
+- https://github.com/pyenv/pyenv

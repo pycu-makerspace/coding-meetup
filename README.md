@@ -14,3 +14,6 @@ https://learn.microsoft.com/en-us/windows/wsl/install
 ### mac/linux
 - https://python-poetry.org/
 - https://github.com/pyenv/pyenv
+
+## installing git
+https://git-scm.com/install/

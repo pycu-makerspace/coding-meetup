@@ -1,0 +1,4 @@
+pandas  # data analysis library
+matplotlib  # plotting/visualizations library
+ipykernel  # register virtual environment kernel for use with jupyter
+jupyter  # jupyter notebook library
